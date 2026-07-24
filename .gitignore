@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+
+# Cache
+rag_cache.pkl
+
+# IDE
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
