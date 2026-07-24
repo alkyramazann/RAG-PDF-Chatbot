@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/cover.png" alt="RAG PDF Chatbot">
-</p>
-
 <h1 align="center"> RAG PDF Chatbot</h1>
 
 <p align="center">
